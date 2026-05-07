@@ -25,17 +25,7 @@
     "anti-afk": {
       "enabled": true,
       "sneak": true
-    },
-    "chat-messages": {
-      "enabled": true,
-      "repeat": true,
-      "repeat-delay": 120,
-      "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
-      ]
-    },
+          },
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
@@ -61,8 +51,8 @@
     "avoidMobs": true,
     "combat": true,
     "beds": false,
-    "chat": true,
-    "console-commands": true
+    "chat": false,
+    "console-commands": false
   },
   "combat": {
     "attack-mobs": true,
