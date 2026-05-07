@@ -51,8 +51,6 @@
     "avoidMobs": true,
     "combat": true,
     "beds": false,
-    "chat": false,
-    "console-commands": false
   },
   "combat": {
     "attack-mobs": true,
